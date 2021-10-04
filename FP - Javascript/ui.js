@@ -65,10 +65,10 @@ class UI {
         addToCart.addEventListener('click', addProductToLocalStorage);
         
         function addProductToLocalStorage() {
-            let cart = [] ;
-            localStorage.setItem('cart', JSON.stringify(cart));
+            let cart = [];
             let cartArr = JSON.parse(localStorage.getItem('cart'));
             if(cartArr) {
+                console.log("salut");
                 for(let i = 0; i < cartArr.length; i++){         
                     if (cartArr[i].id == product[0].id){           
                         Swal.fire({
@@ -81,18 +81,21 @@ class UI {
                     }       
                 }   
             }
+            // let cart = [] ;
             if (localStorage.getItem('cart')) {
                 cart = JSON.parse(localStorage.getItem('cart'));
+            }
                 product[0].qt = 1;
                 cart.push(product[0]);
                 localStorage.setItem('cart', JSON.stringify(cart));
+                console.log("salut");
                 Swal.fire({
                     icon: 'info',
                     title: 'Product Added !',
                     text: 'Check the cart!',
                     footer: `<a href="/cart.html"><i class="fas fa-shopping-cart fa-3x"></a>`
                 })
-            }
+            
         }
     }    
 
