@@ -1,0 +1,22 @@
+{
+  "name": "final_project_curs_it",
+  "version": "0.0.1",
+  "description": "magazin bijuterii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "keywords": [
+    "front",
+    "end",
+    "project"
+  ],
+  "author": "Apostol Mihail",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "serve": "^12.0.1",
+    "sweetalert2": "^11.1.7"
+  }
+}

@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <link rel="stylesheet" href="./FP.css">
+    <link rel="stylesheet" type="text/css" href="node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+    <!-- <link rel="stylesheet" href="sweetalert2.min.css"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+</head>
+
+<body>
+    <div id="container_first">
+        <div id="container_second adminPage" class="adminPage">
+            <div id="nav_bar" class="nav_bar_admin">
+                <div id="home_cart_about_admin">
+                    <div id="logo_div"><a href="./index.html" id="logo"><i class="far fa-gem fa-2x" aria-hidden="true"></i><p>MARVARID</p></a></div>
+                    <ul id="list_page">
+                        <li><a href="./index.html" id="home"> <p class="styleHome">HOME</p>
+                            <div class="writing">
+                                <p>H</p>
+                                <p>O</p>
+                                <p>M</p>
+                                <p>E</p>
+                            </div>
+                            </a></li>
+                        <li>
+                            <div id="cart_nav">
+                                <div id="btn_cart">
+                                    <a href="./cart.html"><i class="fas fa-shopping-cart"></i></a>
+                                </div>
+                                <div>
+                                    <p id="item_cart_nr"> 0 </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li><a href="./admin.html">
+                            <p class="styleAdmin">ADMIN</p>
+                            <div class="writing">
+                                <p>A</p>
+                                <p>D</p>
+                                <p>M</p>
+                                <p>I</p>
+                                <p>N</p>
+                            </div>
+                        </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="middle_container_admin">
+                <div id="add_product_container">
+                    <form id="add_product">
+                        <h2>Add Product</h2>
+                        <div id="first_row">
+                            <div id="i">
+                                <label for="image_product">Image</label>
+                                <input type="text" id="image_product" placeholder="Input url for image">
+                            </div>
+                            <div id="t">
+                                <label for="title_product">Title</label>
+                                <input type="text" id="title_product" placeholder="Input title of product">
+                            </div>
+                        </div>
+                        <div id="second_row">
+                            <div id="p">
+                                <label for="price">Price</label>
+                                <input type="text" id="price" placeholder="Input price of product">
+                            </div>
+                            <div id="sn">
+                                <label for="stock_number">Products in stock</label>
+                                <input type="number" id="stock_number" placeholder="Stock number">
+                            </div>
+                        </div>
+                        <label for="description">Description</label>
+                        <textarea name="" id="description" cols="30" rows="10"
+                            placeholder="Input description of product"></textarea>
+                        <button id="click_to_add">Ready to add !</button>
+                        <button id="click_to_edit">Ready to edit !</button>
+                    </form>
+                </div>
+            </div>
+            <div id="products_admin">
+                <table id="product_table">
+                    <thead id="table_head">
+                        <tr>
+                            <th id="table_image">
+                                Image
+                            </th>
+                            <th id="table_title">
+                                Title
+                            </th>
+                            <th id="table_description">
+                                Description
+                            </th>
+                            <th id="table_price">
+                                Price
+                            </th>
+                            <th id="table_quantity">
+                                Quantity
+                            </th>
+                            <th id="table_edit">
+                                Edit
+                            </th>
+                            <th id="table_delete">
+                                Delete
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="table_body">
+                       
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div id="bottom_nav_bar" class="bottom_admin">
+            <div id="copy_right">© 2021 Copyright Marvarid</div>
+            <ul id="social_media">
+                <li><a href="#"><i class="fab fa-facebook-f fa-1x"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram fa-1x"></i></a></li>
+                <li><a href="#"><i class="fab fa-linkedin fa-1x"></i></a></li>
+                <li><a href="#"><i class="fab fa-github fa-1x"></i></a></li>
+            </ul>
+        </div>
+    </div>
+    <script src="./FP - Javascript/admin.js" type="module"></script>
+    <script src="./FP - Javascript/ui.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

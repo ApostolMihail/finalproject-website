@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "stoc": 10,
+      "price": 300,
+      "name": "Tigris pendant",
+      "description": "Opt for statement-making style with this glamorous pendant, a new addition to Atelier Swarovski's Tigris collection. Inspired by the river Tigris, its design emulates water droplets and the movement of water. Hanging on a chain, the organic silhouette mixes sparkling crystal Pointiage® with larger clear crystals, creating a classic look with a contemporary twist. Perfect for layering over a chic jumper or long-sleeved dress. Add matching jewellery pieces for a breathtaking day-to-night ensemble.",
+      "image": "Photos/01_img.jpg"
+    },
+    {
+      "id": 2,
+      "stoc": 20,
+      "price": 125,
+      "name": "Elegance of Africa",
+      "description": "Part of our SCS 2021 Elegance of Africa collection, this pendant is inspired by the colours of Africa's landscapes and majestic wildlife. Its subversive design features two layered drop-shaped crystals suspended from a fine rhodium plated chain. Striking yet beautifully simple, it will add a touch of sophistication to any outfit. Exclusively available to SCS members in 2021 only.",
+      "image": "Photos/02_img.jpg"
+    },
+    {
+      "id": 3,
+      "stoc": 30,
+      "price": 95,
+      "name": "Millenia necklace",
+      "description": "Designed to form a striking octagon shape, this pendant necklace will become one of the hardest working pieces in your wardrobe. A delicate rhodium plated chain holds a clear step cut stone at its centre, which moves as you wear it, and is framed by smaller brilliant cut stones. Endlessly versatile, wear it with a white T-shirt for a subtle statement, or layered with other necklaces for a more dramatic look.",
+      "image": "Photos/03_img.jpg"
+    },
+    {
+      "id": 4,
+      "stoc": 34,
+      "price": 230,
+      "name": "Curiosa pendant",
+      "description": "Suspended exquisitely from a rose-gold tone plated round link adjustable chain, this geometric astral pink crystal pendant celebrates the magic of engineering and mathematics in a showstopping starburst form crafted from triangle step cut crystals. Wear it alone or pair it with matching Curiosa earrings for evening adornment with a dynamic edge.",
+      "image": "Photos/04_img.jpg"
+    },
+    {
+      "id": 5,
+      "stoc": 33,
+      "price": 85,
+      "name": "Twist necklace",
+      "description": "This elegant and timeless pendant would make a great addition to everyday styles. Gently curving lines of polished, rose-gold tone plated metal and shimmering rows of white stones radiate brilliant light. A matching chain with a lobster clasp finishes the design, which will fit seamlessly into your collection.",
+      "image": "Photos/05_img.jpg"
+    },
+    {
+      "id": 6,
+      "stoc": 6,
+      "price": 135,
+      "name": "Harmonia pendant",
+      "description": "This pendant brings an air of mystery to everyday extravagance. Suspended from a yellow-gold-tone plated chain, the focal, cushion-cut crystal gives the illusion that it's floating. Wear it solo with a simple, black rollneck, or style with other pieces from the Harmonia family for maximum impact. This pendant is part of the Harmonia family, designed by Creative Director Giovanna Engelbert for Collection II.",
+      "image": "Photos/06_img.jpg"
+    },
+    {
+      "id": 7,
+      "stoc": 29,
+      "price": 135,
+      "name": "Stella pendant",
+      "description": "The star is a treasured Swarovski emblem, inspired by the magic of Austrian scenery, and forms the central motif of this delicate pendant. Finished with a dancing stone detail, this rose gold-tone plated necklace is a contemporary take on a rich jewellery heritage. Style yours alone, or with the matching bracelet and earrings from the Stella family. This pendant is part of the Stella family, designed by Creative Director Giovanna Engelbert for Collection II.",
+      "image": "Photos/07_img.jpg"
+    },
+    {
+      "id": 8,
+      "stoc": 52,
+      "price": 180,
+      "name": "Signum pendant",
+      "description": "The treasured Swarovski swan meets the iconic octagon symbol in this delicate rose gold-tone pendant. A playful and contemporary take on two iconic emblems, the centrepiece features dazzling clear crystals and is suspended on a fine chain. Style yours alone, or with the matching earrings and bracelet from the Signum family. This pendant is part of the Signum family, designed by Creative Director Giovanna Engelbert for Collection II.",
+      "image": "Photos/08_img.jpg"
+    },
+    {
+      "id": 9,
+      "stoc": 22,
+      "price": 110,
+      "name": "Chroma pendant",
+      "description": "This eye-catching pendant features two layered, octagon-cut crystals suspended from a fine, rhodium-plated chain. Show off its vibrant, blue hue by styling yours with block colours, complete with other pieces from the Chroma family for a wondrous dose of extra. This pendant is part of the Chroma family, designed by Creative Director Giovanna Engelbert for Collection II.",
+      "image": "Photos/09_img.jpg"
+    },
+    {
+      "id": 10,
+      "stoc": 35,
+      "price": 95,
+      "name": "North pendant",
+      "description": "This pendant is an essential addition to your jewellery collection. Showcasing Swarovski's 'dancing stone' concept, its focal point is a sparkling, round stone in vibrant red that appears to float inside its metal surrounding. Colourful craftsmanship and modern, playful design meet in this eye-catching design. The pendant comes on a chain.",
+      "image": "Photos/10_img.jpg"
+    },
+    {
+      "id": 11,
+      "stoc": 36,
+      "price": 75,
+      "name": "Birthstone Pendant",
+      "description": "This Swarovski pendant is inspired by the concept of birthstones, precious stones that correspond with different birth months. Its design features a single large, brilliantly cut crystal in a deep red hue. A matching chain complements this beautiful pendant. A thoughtful gift idea for anyone born in July and a charming piece of jewellery for everyday wear.",
+      "image": "Photos/11_img.jpg"
+    },
+    {
+      "id": 12,
+      "stoc": 19,
+      "price": 75,
+      "name": "Angelic pendant",
+      "description": "Simple, yet striking – this classic pendant by Swarovski skilfully combines simple design with beautiful details. It displays a single, round white stone as its centrepiece, surrounded by a line of bright white pavé. The pendant is complemented by a matching chain. A perfect choice for everyday wear and thoughtful gift giving idea.",
+      "image": "Photos/12_img.jpg"
+    },
+    {
+      "id": 13,
+      "stoc": 17,
+      "price": 65,
+      "name": "Swan pendant",
+      "description": "A modern take on an iconic piece. Capturing the grace and elegance of a swan, this pendant sparkles softly enough to complement any outfit. It is delicately embellished with subtly-shaded graduating crystals, set in Swarovski’s exclusive crystal Pointiage® technique. The pendant measures 1 x 1 cm and comes on a 38 cm rhodium-plated chain.",
+      "image": "Photos/13_img.jpg"
+    },
+    {
+      "id": 14,
+      "stoc": 15,
+      "price": 135,
+      "name": "Dulcis pendant",
+      "description": "This playful pendant necklace references sculpture from the Pop Art movement, and is expertly formed from a single precision cut crystal cushioned in a violet glossy moulded setting, suspended on a delicate tonal metal chain. Wear alone with a simple white T-shirt, or layer it up with other necklaces from the Dulcis family for a candy coloured statement.",
+      "image": "Photos/14_img.jpg"
+    },
+    {
+      "id": 15,
+      "stoc": 11,
+      "price": 250,
+      "name": "Attract pendant",
+      "description": "This pendant by Swarovski displays artful craftsmanship. It is adorned with three shimmering white stones: The central, drop-shaped element is complemented beautifully by two smaller, round stones. Delicate facets create a refined yet simple look, perfect for embellishing everyday outfits. The pendant is complemented by a matching chain and pairs perfectly with similar pieces of jewellery.",
+      "image": "Photos/15_img.jpg"
+    },
+    {
+      "id": 16,
+      "stoc": 10,
+      "price": 85,
+      "name": "Solitaire pendant",
+      "description": "Introducing a stunning new interpretation of our bestselling Solitaire Pendant, one of our most popular designs and a true Swarovski classic. More refined than ever before, this rhodium plated pendant shimmers exquisitely. A go-to piece with just the right amount of sparkle for every occasion, it will enhance any outfit. The pendant comes on a chain.",
+      "image": "Photos/16_img.jpg"
+    },
+    {
+      "id": 17,
+      "stoc": 9,
+      "price": 55,
+      "name": "Creativity pendant",
+      "description": "A stunning new interpretation of a timeless classic: the circle pendant. Highly refined, this design sparkles in clear crystal pavé. Rhodium-plated metal adds a modern touch. Wear with a longer pendant for an on-trend multi-length layered look.",
+      "image": "Photos/17_img.jpg"
+    },
+    {
+      "id": 18,
+      "stoc": 8,
+      "price": 75,
+      "name": "Attract Trilogy pendant",
+      "description": "The past, the present and the future combine in this mesmerising Attract Trilogy Pendant. Inspired by the concept of eternal love, this romantic design is timelessly elegant. The trio of clear crystals dangle majestically down from the rhodium-plated chain. The perfect gift for a loved one, it is a classic piece full of emotion. A matching pair of pierced earrings and a ring are available.",
+      "image": "Photos/18_img.jpg"
+    },
+    {
+      "id": 19,
+      "stoc": 30,
+      "price": 75,
+      "name": "Lifelong Heart pendant",
+      "description": "Classic chic meets modern design – this rose-gold tone plated Swarovski pendant is a perfect expression of our Lifelong Heart series. The heart-shaped centrepiece, and the large stone set beneath it, sparkle majestically. Delightful details add to the glamorous look and make this masterpiece the perfect choice for elegant outfits. A great gift for fashion lovers. The pendant comes on a chain.",
+      "image": "Photos/19_img.jpg"
+    },
+    {
+      "id": 20,
+      "stoc": 31,
+      "price": 75,
+      "name": "Symbolic pendant",
+      "description": "The mixed-plated Duo Pendant Evil Eye adds a mystic touch to any look. It features one eye motif in blue, black, and clear crystal pavé and one in rose gold-plated metal. The pendant comes on a rose gold-plated chain embellished with dark blue crystals.",
+      "image": "Photos/20_img.jpg"
+    },
+    {
+      "id": 21,
+      "stoc": 54,
+      "price": 135,
+      "name": "Further pendant",
+      "description": "Make a shimmering addition to your collection with this timeless rhodium-plated pendant. The interlocking loop design features clear crystals shining within two different stone settings − cupchain and pavé − for a cool and romantic update on classic Swarovski sparkle. Highly wearable and refined, it will lend opulent finish to any look. The pendant comes on a delicate chain.",
+      "image": "Photos/21_img.jpg"
+    },
+    {
+      "id": 22,
+      "stoc": 3,
+      "price": 125,
+      "name": "Hollow pendant",
+      "description": "Elevate the everyday with the Hollow Pendant. The interlinking, contemporary hoop design sparkles with crystal pavé and features an innovative sliding mechanism for the perfect fit. An ideal gift, it comes on a chain.",
+      "image": "Photos/22_img.jpg"
+    },
+    {
+      "id": 23,
+      "stoc": 11,
+      "price": 85,
+      "name": "Sunshine pendant",
+      "description": "Shine all day long in the Sunshine Pendant, Medium, which is inspired by the sun as a symbol of love and warmth between a mother and daughter. Crafted in rose gold plating, it would make a lovely way to say 'You are my sunshine' this Mother's Day. Its quiet elegance and timeless sparkle will light up any outfit, no matter what the occasion. The pendant comes on a chain.",
+      "image": "Photos/23_img.jpg"
+    },
+    {
+      "id": 24,
+      "stoc": 25,
+      "price": 85,
+      "name": "Magic pendant",
+      "description": "The Magic Necklace is inspired by the mystery and elegance of snowflakes. Its beautifully balanced rhodium-plated design captures the spirit of the festive season with an irresistible touch of Swarovski sparkle. Wear it solo by day, then add other Magic jewellery pieces or layer with another necklace to dial up the glamour for evening celebrations. The pendant comes on a chain.",
+      "image": "Photos/24_img.jpg"
+    },
+    {
+      "id": 25,
+      "stoc": 35,
+      "price": 110,
+      "name": "Time pendant",
+      "description": "Striking and modern, this Swarovski pendant captures the hardware trend in a stylish way. It highlights a single, elongated chain link crested with clear crystal pavé, linked to the matching, complementary chain by two rings, one glittering with clear crystal pavé. This necklace is closed with a lobster clasp and is a great choice for embellishing your everyday style.",
+      "image": "Photos/25_img.jpg"
+    },
+    {
+      "id": 26,
+      "stoc": 15,
+      "price": 85,
+      "name": "Lifelong Bow pendant",
+      "description": "Ideal for Valentine's Day gifting, the Lifelong Bow collection uses the bow motif as a flirtatious and fun symbol of love. Sophisticated and romantic, yet playful and youthful, this pendant exudes cool-classic glamour with its sleek lines, 3D silhouette and mix of rose gold and rhodium plating. Perfect for thoughtful gift-givers, or for treating yourself. The pendant comes on a chain.",
+      "image": "Photos/26_img.jpg"
+    },
+    {
+      "id": 27,
+      "stoc": 22,
+      "price": 95,
+      "name": "Hint pendant",
+      "description": "Pep up your new season style with this on-trend pendant. A mix of dark and clear pavé lines, metal platings and stone cuts blend together in this timeless design. Minimal enough to accent any look, day to night, it will become a modern jewellery box favourite.",
+      "image": "Photos/27_img.jpg"
+    },
+    {
+      "id": 28,
+      "stoc": 20,
+      "price": 75,
+      "name": "Libra pendant",
+      "description": "This pendant by Swarovski is inspired by the sign of Libra. Representing harmony and balance, the carefully balanced lines of the sign are traced in sparkling clear crystal pavé and centered around a white stone, evoking the stars of the zodiac. The complementary chain is fastened with a t-bar closure that is adorned by a shimmering coin displaying a sun on one side, with elemental symbols on the flip side. A perfect gift for those born under Libra.",
+      "image": "Photos/28_img.jpg"
+    }
+  ]
+}

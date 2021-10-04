@@ -1,0 +1,9 @@
+#bottom_nav_bar {
+    position: fixed;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance:push-button;
+  margin: 0;
+}
