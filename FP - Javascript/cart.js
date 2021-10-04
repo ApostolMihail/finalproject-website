@@ -5,16 +5,6 @@ import {ui} from './ui.js';
 const productsURL = "https://61363d1b8700c50017ef54c7.mockapi.io/products";
 
 
-// window.onload = () => {
-//     http
-//         .get(productsURL)
-//         .then((data) => {
-//             ui.nrCartItems();
-//             ui.showCartItems(data);
-//             updateCartTotal();
-//         });
-// }
-
 document.addEventListener('DOMContentLoaded', () => {
     http
         .get(productsURL)

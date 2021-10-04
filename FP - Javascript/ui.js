@@ -68,7 +68,6 @@ class UI {
             let cart = [];
             let cartArr = JSON.parse(localStorage.getItem('cart'));
             if(cartArr) {
-                console.log("salut");
                 for(let i = 0; i < cartArr.length; i++){         
                     if (cartArr[i].id == product[0].id){           
                         Swal.fire({
@@ -88,7 +87,6 @@ class UI {
                 product[0].qt = 1;
                 cart.push(product[0]);
                 localStorage.setItem('cart', JSON.stringify(cart));
-                console.log("salut");
                 Swal.fire({
                     icon: 'info',
                     title: 'Product Added !',
@@ -130,7 +128,7 @@ class UI {
 			    `
                 <tr class="cartItem">
                     <td class="tb_img_cart"><img src="${product.image}"></td>
-                    <td><a href="/details.html?id=${product.id}">${product.name}</a></td>
+                    <td><a href="details.html?id=${product.id}">${product.name}</a></td>
                     <td class="itmPrice">${product.price} $ <p id="subT" class="subT"></p> </td>
                     <td class="qt"><input type="number" value="${product.qt}" class="cardQty" min="1" max="${product.stoc}" id="qty"><p id="stock" class="stockItm">Stock: ${product.stoc}</p></td>
                     <td><button id="${product.id}" class="btn_delete del"><i class="fas fa-trash fa-2x"></i></button></td>
