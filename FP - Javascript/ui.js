@@ -74,7 +74,7 @@ class UI {
                             icon: 'error',
                             title: 'The product is already in the cart!',
                             text: 'Check the cart!',
-                            footer: '<a href="./cart.html"><i class="fas fa-shopping-cart fa-3x"></a>'
+                            footer: '<a href="cart.html"><i class="fas fa-shopping-cart fa-3x"></a>'
                         })
                         return;         
                     }       
@@ -91,7 +91,7 @@ class UI {
                     icon: 'info',
                     title: 'Product Added !',
                     text: 'Check the cart!',
-                    footer: `<a href="./cart.html"><i class="fas fa-shopping-cart fa-3x"></a>`
+                    footer: `<a href="cart.html"><i class="fas fa-shopping-cart fa-3x"></a>`
                 })
             
         }
